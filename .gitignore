@@ -1,0 +1,5 @@
+# # Ignore everything
+# /*
+
+# # Except Case 1 folder
+# !Case 1/
