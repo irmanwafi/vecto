@@ -1,5 +1,2 @@
-# # Ignore everything
-# /*
-
-# # Except Case 1 folder
-# !Case 1/
+# Exclude only the 'personal' folder
+personal/
