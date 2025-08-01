@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://www.vectolabs.com/wp-content/uploads/2023/11/cropped-Vectolabs-No-Subtext.png" alt="Vectolabs Logo" width="90" style="border-radius:16px;box-shadow:0 2px 12px #ccc;" />
   
-  <h1 style="font-size:2.7rem;letter-spacing:2px;margin-bottom:0.2em;">Vectolabs Assessment Repository</h1>
+  <h1 style="font-size:2.7rem;letter-spacing:2px;margin-bottom:0.2em;">Vecto Repository Irman</h1>
   <p style="font-size:1.2rem;color:#555;">All materials are for assessment purposes only.</p>
 </div>
 
